@@ -19,7 +19,7 @@
     "chalk": "^1.1.1",
     "commander": "^2.8.1",
     "glob": "^6.0.3",
-    "inquirer": "^0.11.1",
+    "inquirer": "^0.11.4",
     "jasmine": "^2.3.1",
     "lodash": "^3.10.0",
     "mkdirp": "^0.5.1",
